@@ -1,6 +1,5 @@
 # This repo for AWS User Group `20210422` demo.
 
-
 ## To diff
 ```bash
 $ cdk diff
@@ -16,7 +15,6 @@ $ cdk deploy
 $ cdk destroy
 ```
 
-
 On deploy completed, open the cloudfront URL with
 
 ```bash
@@ -29,7 +27,7 @@ $ curl -I http://<CLOUDFRONT_DOMAIN>/123
 HTTP/2 302 
 content-type: application/xml
 content-length: 0
-date: Fri, 02 Apr 2021 08:40:09 GMT
+date: Fri, 22 Apr 2021 08:40:09 GMT
 server: AmazonS3
 location: /404.html # the custom error page defined in Lambda@Edge
 x-cache: Miss from cloudfront
