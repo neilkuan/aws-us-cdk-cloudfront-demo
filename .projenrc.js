@@ -15,6 +15,7 @@ const project = new AwsCdkTypeScriptApp({
     '@aws-cdk/aws-lambda-nodejs',
     '@aws-cdk/aws-s3',
     '@aws-cdk/aws-s3-deployment',
+    '@aws-cdk/aws-wafv2',
   ],
   deps: [
     'cdk-cloudfront-plus',

@@ -404,6 +404,14 @@
     "@aws-cdk/core" "1.98.0"
     constructs "^3.3.69"
 
+"@aws-cdk/aws-wafv2@^1.98.0":
+  version "1.98.0"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/aws-wafv2/-/aws-wafv2-1.98.0.tgz#5f055e025d53d2fd3eb8259880ce85ae2a3e5712"
+  integrity sha512-H15yxw2Jwnu36rlrMV63h7NjaUeYsTGgMTlcIN9lk+Llfxuxn+JYp2Qk1HDAYRiXoULXVQM50Wm+WZctO8JnFQ==
+  dependencies:
+    "@aws-cdk/core" "1.98.0"
+    constructs "^3.3.69"
+
 "@aws-cdk/cfnspec@1.98.0":
   version "1.98.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/cfnspec/-/cfnspec-1.98.0.tgz#4ebb4402d253fb44e7f3779efcb38b900a637a85"

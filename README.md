@@ -1,5 +1,10 @@
 # This repo for AWS User Group `20210422` demo.
 
+## To install node package
+```bash
+$ yarn 
+```
+
 ## To diff
 ```bash
 $ cdk diff
